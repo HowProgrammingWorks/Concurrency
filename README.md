@@ -1,2 +1,1 @@
-# Concurrency
-ConcurrentQueue, throttling, etc.
+# ConcurrentQueue, throttling, etc.
